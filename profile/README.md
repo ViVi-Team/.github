@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is ViVi Team 🙋‍♀️
+
 <!--
 
 **Here are some ideas to get you started:**
